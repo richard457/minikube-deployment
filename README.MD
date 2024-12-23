@@ -1,2 +1,1 @@
-minikube addons enable ingress
-minikube tunnel
+# Minikube deployment!
